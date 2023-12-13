@@ -8,7 +8,7 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
 
-        System.out.println("Введите арифметическую операцию ");
+        System.out.println("Введите арифметическую операцию");
         String input = scanner.nextLine();
         calc(input);
 
